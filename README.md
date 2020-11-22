@@ -1,1 +1,1 @@
-# leetcode-go
+# one-step-go
